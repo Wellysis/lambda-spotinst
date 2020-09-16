@@ -1,6 +1,6 @@
 # Lambda Spot-Inst
 
-This is a python Lambda script to start and stop the servers in spot-inst. You can set up and deploy as follows. In lambda console, you need to setup three [environment variables](##-Environment-variables).
+Python Lambda script to start and stop the servers in spot-inst. You can set up and deploy as follows. In lambda console(or chalice/serverless), you need to setup [environment variables](#environment-variables).
 
 [Spot-inst](https://spot.io/) is a SaaS based EC2 management solution that delivers cloud efficiences never before archieved. You can reduce EC2 cloud computing costs by 60% to 80%. It can be easily applied even in environments where are not using serverless or Kubernetics architectures.
 
