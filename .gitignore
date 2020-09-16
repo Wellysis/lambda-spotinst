@@ -1,0 +1,11 @@
+### macOS ###
+.DS_Store
+
+### python ###
+venv
+
+### deploy ###
+package
+
+### config ###
+server_list.json
